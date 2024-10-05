@@ -1,4 +1,4 @@
-pip install module
+pip install module python
 import streamlit as st
 import pandas as pd
 import numpy as np
