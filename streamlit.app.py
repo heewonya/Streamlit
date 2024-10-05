@@ -1,6 +1,3 @@
-pip install streamlit
-import subprocess
-subprocess.run(['pip', 'install', 'module_name'])
 import streamlit as st
 import pandas as pd
 import numpy as np
